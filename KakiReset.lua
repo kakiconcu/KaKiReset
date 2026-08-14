@@ -1,1 +1,0 @@
-xoa file KaKiReset,lua
